@@ -1,10 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is E0EE-789D
-
- Directory of C:\Users\Hamza\OneDrive\Desktop\My Project
-
-12/18/2022  03:57 PM    <DIR>          .
-12/18/2022  03:53 PM    <DIR>          ..
-12/18/2022  03:57 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  152,721,408,000 bytes free
+I have Chaged it
